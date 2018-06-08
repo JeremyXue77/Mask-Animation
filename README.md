@@ -9,8 +9,7 @@
 * Random Mask
 
   
-
-  ![circle mask](https://github.com/JeremyXue77/Mask-Animation/blob/master/circle%20mask.gif)
+![circle mask](https://github.com/JeremyXue77/Mask-Animation/blob/master/circle%20mask.gif)
 
 
 
