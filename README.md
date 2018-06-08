@@ -18,7 +18,7 @@
 
 
 
-![flip card](flip card.gif)
+![flip card](https://github.com/JeremyXue77/Mask-Animation/blob/master/flip%20card.gif)
 
 
 
@@ -26,4 +26,4 @@
 
 
 
-![transform scale](transform scale.gif)
+![transform scale](https://github.com/JeremyXue77/Mask-Animation/blob/master/transform%20scale.gif)
